@@ -1,7 +1,7 @@
 // Lista de canciones (nombre, ruta del audio, imagen)
 const songs = [
     {
-        name: 'Canción 1',
+        name: 'Born To Die - Lana Del Rey',
         audio: 'ruta/audio1.mp3',  // Cambia con las rutas reales
         image: 'ruta/imagen1.jpg'   // Cambia con las rutas reales
     },
