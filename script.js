@@ -15,8 +15,8 @@ const songs = [
     },
     {
         name: 'Canción 3',
-        audio: 'ruta/audio3.mp3',
-        image: 'ruta/imagen3.jpg'
+        audio: 'https://www.dropbox.com/scl/fi/gpu1mkzgz0dig8zhu3adu/Apocalypse-Cigarettes-After-Sex-Cigarettes-After-Sex-1.mp3?rlkey=s08zx8qwizd3m9g2t905a1urs&st=xnq213d8&dl=1',
+        image: 'https://i.imgur.com/PrxIDOx.gif'
     },
     // Agrega hasta 10 canciones
 ];
