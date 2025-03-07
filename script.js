@@ -9,9 +9,9 @@ const songs = [
         image: 'https://i.imgur.com/scsbxf4.jpeg'   // Cambia con las rutas reales
     },
     {
-        name: 'Canción 2',
+        name: '2 much - Jb',
         audio: 'ruta/audio2.mp3',
-        image: 'ruta/imagen2.jpg'
+        image: 'https://youtu.be/JKPp3Kshb7c?si=aJDSPlGBKiRbEijv'
     },
     {
         name: 'Canción 3',
