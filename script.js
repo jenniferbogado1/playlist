@@ -2,7 +2,7 @@
 const songs = [
     {
         name: 'Born To Die - Lana Del Rey',
-        audio: 'https://drive.google.com/file/d/1tKjDCnKFXyrI5EChZ8PG-M5kfqkkmlen/view?usp=drivesdk',  // Cambia con las rutas reales
+        audio: 'https://docs.google.com/uc?export=download&id=1tKjDCnKFXyrI5EChZ8PG-M5kfqkkmlen',  // Cambia con las rutas reales
         image: 'ruta/imagen1.jpg'   // Cambia con las rutas reales
     },
     {
