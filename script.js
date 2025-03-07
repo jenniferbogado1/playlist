@@ -11,7 +11,7 @@ const songs = [
     {
         name: '2 much - Jb',
         audio: 'https://www.dropbox.com/scl/fi/05hwg1g8sq818wep9fr4m/Justin-Bieber-2-Much-Visualizer-JustinBieberVEVO.mp3?rlkey=3jeg7djqg1ohzw4nk7cj2d1x9&st=6wjes4zl&dl=1',
-        image: 'https://youtu.be/JKPp3Kshb7c?si=aJDSPlGBKiRbEijv'
+        image: 'https://i.imgur.com/olia8iv.gif'
     },
     {
         name: 'Canción 3',
