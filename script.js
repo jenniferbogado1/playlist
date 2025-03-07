@@ -6,7 +6,7 @@ const songs = [
         audio: 'https://www.dropbox.com/scl/fi/wc2y509k7r1vm636kmfcv/Lana-Del-Rey-Born-To-Die-LanaDelReyVEVO.mp3?rlkey=wcjlvyu3gkw81v2e6fdexe6co&st=o6hvz6d8&dl=1',
 
   // Cambia con las rutas reales
-        image: 'ruta/imagen1.jpg'   // Cambia con las rutas reales
+        image: 'https://i.imgur.com/scsbxf4.jpeg'   // Cambia con las rutas reales
     },
     {
         name: 'Canción 2',
