@@ -19,6 +19,22 @@ const songs = [
         image: 'https://i.imgur.com/PrxIDOx.gif'
     },
     // Agrega hasta 10 canciones
+
+    {
+        name: 'Canción 3',
+        audio : 'https://www.dropbox.com/scl/fi/b58lh6rqq5ayp5felczyu/girl-in-red-we-fell-in-love-in-october-girl-in-red.mp3?rlkey=vqjnw4clph3yle7nhi7yfgfh2&st=x7696qkb&dl=1
+',
+        image: 'https://i.imgur.com/rMM2IFB.gif'
+    },
+{
+        name: 'Canción ',
+       
+        audio : 'https://www.dropbox.com/scl/fi/o4v89iucfe2hzpzlgcp4o/I-Wanna-Be-Yours-Arctic-Monkeys.mp3?rlkey=ngfkucd1gwxps5zfr5ys5oc6e&st=vo23t03f&dl=1',
+
+        image: 'https://imgur.com/9Q53WwT.gif'
+    },
+
+
 ];
 
 let currentSongIndex = 0;
