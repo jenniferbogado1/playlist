@@ -72,3 +72,10 @@ document.getElementById('random-btn').addEventListener('click', () => {
     currentSongIndex = Math.floor(Math.random() * songs.length);
     loadSong(currentSongIndex);
 });
+
+
+// Cuando la canción termina, reproduce la siguiente automáticamente
+audioElement.addEventListener('ended', () => {
+    currentSongIndex = (currentSongIndex + 1) % songs.length;
+    loadSong(currentSongIndex);
+});
