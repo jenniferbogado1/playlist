@@ -30,8 +30,46 @@ document.addEventListener("DOMContentLoaded", () => {
             name: 'Sweater Weather - The Neighbourhood',
             audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
             image: 'https://i.imgur.com/7uODVKb.gif'
-        }
+        },
 
+
+        
+        {
+            name: 'Without you - The Kid LAROI',
+            audio: 'https://www.dropbox.com/scl/fi/sqyl9tbvdpou6z7a04nxg/The-Kid-LAROI-WITHOUT-YOU-Official-Video-The-Kid-LAROI..mp3?rlkey=qc1mp7g0olfsh5nkyxjp8ykbe&st=7q2x0b6f&dl=1',
+            image: 'https://i.imgur.com/8K2dZLI.gif'
+        },
+
+        
+        {
+            name: 'Instant Crush - Daft Punk',
+            audio: 'https://www.dropbox.com/scl/fi/q6o9edehqqbjhid7fr0ts/Daft-Punk-Instant-Crush-Video-ft.-Julian-Casablancas-DaftPunkVEVO.mp3?rlkey=gyrxaipar2nxwqu8vgfgcs7s1&st=97ki2l5y&dl=1',
+
+            image: 'https://i.imgur.com/84DhPno.gif'
+        },
+
+
+        
+        {
+            name: 'Sweater Weather - The Neighbourhood',
+            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
+            image: 'https://i.imgur.com/7uODVKb.gif'
+        },
+
+        
+        {
+            name: 'Sweater Weather - The Neighbourhood',
+            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
+            image: 'https://i.imgur.com/7uODVKb.gif'
+        },
+
+
+        
+        {
+            name: 'Sweater Weather - The Neighbourhood',
+            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
+            image: 'https://i.imgur.com/7uODVKb.gif'
+        }
 
 
     ];
