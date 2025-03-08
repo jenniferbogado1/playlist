@@ -29,7 +29,6 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: 'Sweater Weather - The Neighbourhood',
             audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
-
             image: 'https://i.imgur.com/7uODVKb.gif'
         }
 
