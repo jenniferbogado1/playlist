@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
             name: 'I wanna be yours - Arctic Monkeys',
             audio: 'https://www.dropbox.com/scl/fi/o4v89iucfe2hzpzlgcp4o/I-Wanna-Be-Yours-Arctic-Monkeys.mp3?rlkey=ngfkucd1gwxps5zfr5ys5oc6e&st=vo23t03f&dl=1',
             image: 'https://imgur.com/9Q53WwT.gif'
-        }
+        },
         
         {
             name: 'Sweater Weather - The Neighbourhood',
