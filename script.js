@@ -25,6 +25,16 @@ document.addEventListener("DOMContentLoaded", () => {
             audio: 'https://www.dropbox.com/scl/fi/o4v89iucfe2hzpzlgcp4o/I-Wanna-Be-Yours-Arctic-Monkeys.mp3?rlkey=ngfkucd1gwxps5zfr5ys5oc6e&st=vo23t03f&dl=1',
             image: 'https://imgur.com/9Q53WwT.gif'
         }
+        
+        {
+            name: 'Sweater Weather - The Neighbourhood',
+            audio : 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
+
+            image: 'https://i.imgur.com/7uODVKb.gif'
+        }
+
+
+
     ];
 
     let currentSongIndex = 0;
