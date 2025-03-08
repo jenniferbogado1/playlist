@@ -51,24 +51,25 @@ document.addEventListener("DOMContentLoaded", () => {
 
         
         {
-            name: 'Sweater Weather - The Neighbourhood',
-            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
-            image: 'https://i.imgur.com/7uODVKb.gif'
+            name: 'Tranz - Gorillaz',
+            audio: 'https://www.dropbox.com/scl/fi/u5z8f58n7wp4v2atphjdp/Gorillaz-Tranz-Official-Video-Gorillaz.mp3?rlkey=s41xlofj9tqm82ktsbj9wjk7o&st=1yr2qgjn&dl=1',
+            image: 'https://i.imgur.com/DM3Uh3c.gif'
         },
 
         
         {
-            name: 'Sweater Weather - The Neighbourhood',
-            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
-            image: 'https://i.imgur.com/7uODVKb.gif'
+            name: 'Iris - Goo Goo Dolls',
+            audio: 'https://www.dropbox.com/scl/fi/ki087r8vansv1rsvo4bdx/Goo-Goo-Dolls-Iris-Official-Music-Video-4K-Remaster-Goo-Goo-Dolls.mp3?rlkey=wneuftqmq18upziow9qcyd4oi&st=lkbuaexv&dl=1',
+
+            image: 'https://i.imgur.com/dVy8Ol8.gif'
         },
 
 
         
         {
-            name: 'Sweater Weather - The Neighbourhood',
-            audio: 'https://www.dropbox.com/scl/fi/y6bgz5a12gpvr1jpdzner/The-Neighbourhood-Sweater-Weather-Official-Video-TheNeighbourhoodVEVO-2.mp3?rlkey=njddjucjbnb9cw6b0cqt82ijp&st=oqeukjv7&dl=1',
-            image: 'https://i.imgur.com/7uODVKb.gif'
+            name: 'Lovesong - The Cure',
+            audio: 'https://www.dropbox.com/scl/fi/mio0jq5m5plms3jo50xy3/The-Cure-Lovesong-TheCureVEVO.mp3?rlkey=dl0cpj4vt1t3ltaxl5nqfddj1&st=eunw13c4&dl=1',
+            image: 'https://i.imgur.com/tqdYxVk.gif'
         }
 
 
