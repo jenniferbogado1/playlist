@@ -21,7 +21,7 @@ const songs = [
     // Agrega hasta 10 canciones
 
     {
-        name: 'Canción ',
+        name: 'Canción 4 ',
         audio: 'https://www.dropbox.com/scl/fi/b58lh6rqq5ayp5felczyu/girl-in-red-we-fell-in-love-in-october-girl-in-red.mp3?rlkey=vqjnw4clph3yle7nhi7yfgfh2&st=x7696qkb&dl=1',
 
         image: 'https://i.imgur.com/rMM2IFB.gif'
