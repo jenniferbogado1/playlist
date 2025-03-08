@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             name: 'Born To Die - Lana Del Rey',
             audio: 'https://www.dropbox.com/scl/fi/wc2y509k7r1vm636kmfcv/Lana-Del-Rey-Born-To-Die-LanaDelReyVEVO.mp3?rlkey=wcjlvyu3gkw81v2e6fdexe6co&st=o6hvz6d8&dl=1',
-            image: 'https://i.imgur.com/scsbxf4.jpeg'
+            image: 'https://i.imgur.com/EAhTae5.gif'
         },
         {
             name: '2 much - Justin Bieber',
